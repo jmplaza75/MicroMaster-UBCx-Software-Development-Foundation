@@ -18,4 +18,4 @@ Specifically, you will learn:
 
 It is a very interesting course where you will program in Racket. As Wikipedia indicates, Racket is a general-purpose, multi-paradigm programming language. The Racket language is a modern dialect of Lisp and a descendant of Scheme. To program, you will use DrRacket, which is a graphical environment for developing programs using the Racket programming languages.
 
-I have done this course as part Computer Science - Core Programming from OSSU (Open Source Society University). Don't hesitate to take the course on the edX platform. Optionally, you mya obtain the corresponding certificate if you're interested in this type of certification. 
+I have done this course as part Computer Science - Core Programming from OSSU (Open Source Society University). Don't hesitate to take the course on the edX platform. Optionally, you may obtain the corresponding certificate if you're interested in this type of certification. 
