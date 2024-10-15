@@ -1,4 +1,4 @@
-# UBCx SoftConst1x Software Construction: Data Abstraction
+# SoftConst1x  UBCx: Software Construction: Data Abstraction
 
 This repo includes all sources from the course UBCx SoftConst1x Software Construction: Data Abstraction. All of them, have been forked from [UBCx-Software-Construction](https://github.com/UBCx-Software-Construction), where you can find each repository individually. 
 
