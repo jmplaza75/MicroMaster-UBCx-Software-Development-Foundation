@@ -29,6 +29,6 @@ By the end of the course, you will have a solid foundation in Java and Object-Or
 
 The final project, you will complete a graphical Java application called The Twitter Mapper. This application allows the user to specify keywords of interest, and monitors tweets from a service that samples Twitter in real time (or replays tweets that were previously recorded). It also plots the location of the user the originated the tweet on a map of the world. To do this, the app makes use of an existing geographical mapping library and the Twitter API.
 
-I could it compile and run, but I have problems with the twitter API. Many problems with the versions of packages. Stackexchange as a solution.
+I could it compile and run, but I have problems with the twitter API. Many problems with the versions of packages. Stackoverflow as a solution.
 
 I have done this course as part Computer Science - Core Programming from OSSU (Open Source Society University). Don't hesitate to take the course on the edX platform. Optionally, you may obtain the corresponding certificate if you're interested in this type of certification. 
